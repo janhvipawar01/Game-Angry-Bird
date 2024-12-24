@@ -114,7 +114,7 @@ The game components used in the Angry Birds Game Design is known as Scene Object
 - Clone this repository to your local machine:
 - Copy code
 ```bash
-  https://github.com/your-username/angry-birds-game.git
+  https://github.com/janhvipawar01/Unity-Slingshot-Saga-Recreating-Angry-Birds-in-2D.git
 ```
 - Open the project in Unity.
 - Run the project by clicking the Play button in the Unity Editor.
