@@ -123,7 +123,10 @@ The game components used in the Angry Birds Game Design is known as Scene Object
 ## Authors
 
 - Github: [@janhvipawar01-github](https://www.github.com/janhvipawar01)
-- LinkedIn: [@janhvipawar01-linkedin](www.linkedin.com/in/janhvi-pawar-095831215)
+
+## Connect with me
+
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/janhvi-pawar-095831215)
 
 
 
